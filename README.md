@@ -23,4 +23,11 @@ Each tech stack has it's own directory, within which you can find guideline docu
 |   |   +-- chart.yml
 |   |   +-- values.yml
 |   |   +-- ...
++-- php-laravel
+|   +-- guideline.md
+|   +-- Dockerfile
+|   +-- helm-chart/
+|   |   +-- chart.yml
+|   |   +-- values.yml
+|   |   +-- ...
 ```
